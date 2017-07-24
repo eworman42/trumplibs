@@ -9,9 +9,9 @@ trump_libs <- function(...){
         enemies = c('Adam Schiff', 'Al Franken', 'Alicia Machado', 'Anderson Cooper', 'Anthony Weiner', 'Arnold Schwartzenegger', 'Barack Obama',
                     'Ben Carson', 'Bernie Sanders', 'Bill Clinton', 'Bill Kristol', 'Bobby Jindal', 'Carly Fiorina', 'Chris Christie', 'Chuck Jones', 
                     'Chuck Schumer', 'Chuck Todd', 'CNN', 'Cokie Roberts', 'Colin Powell', 'David Brooks', 'Debbie Wasserman Schultz', 'Democrats', 'DNC', 
-                    'Donna Brazile', 'Elizabeth Warren', 'George Pataki', 'George W. Bush', 'Glenn Beck', 'Hillary Clinton', 'Huma Abedin', 'James Clapper', 
+                    'Donna Brazile', 'Elizabeth Warren', 'George Pataki', 'George W. Bush', 'Glenn Beck', 'Crooked Hillary', 'Hillary Clinton', 'Huma Abedin', 'James Clapper', 
                     'James Comey', 'Jeb Bush', 'Jeff Flake', 'Joe Biden', 'Joe Scarborough', 'John Kasich', 'John McCain', 'John Oliver', 'John Podesta', 
-                    'Jon Ossoff', 'Juan Williams', 'Kathy Griffin', 'Katie Couric', 'Lawrence O\'Donnell', 'Loretta Lynch', 'Marco Rubio', 'Mark Cuban', 
+                    'Jon Ossoff', 'Juan Williams', 'Kathy Griffin', 'Katie Couric', 'Lawrence O`Donnell', 'Rosie O`Donnell', 'Loretta Lynch', 'Marco Rubio', 'Mark Cuban', 
                     'Megyn Kelly', 'Michael Bloomberg', 'Mika Brzezinski', 'Mitt Romney', 'MSNBC', 'Nancy Pelosi', 'New York Times', 'Penn Jillette', 
                     'Rand Paul', 'Rick Perry', 'Robert Gates', 'Robert Mueller', 'Ronda Rousey', 'Ruth Bader Ginsburg', 'Sadiq Khan', 'Sally Yates', 
                     'Samuel L. Jackson', 'Scott Walker', 'Sid Blumenthal', 'Ted Cruz', 'Tim Kaine', 'Vincente Fox', 'Washington Post', 'Whoopi Goldberg') 
